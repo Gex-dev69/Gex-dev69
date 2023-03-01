@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 [![Gex GitHub stats](https://github-readme-stats.vercel.app/api?username=Gex-dev69&show_icons=true&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gex-dev69&layout=compact&hide=css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gex-dev69&layout=compact&hide=css&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
